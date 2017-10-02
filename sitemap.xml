@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>/2016/04/20/getting-started-with-the-academic-framework-for-hugo/</loc>
       <lastmod>2017-09-03T00:00:00+04:30</lastmod>
     </url>
     
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>/post/widgets/</loc>
+      <loc>/2016/04/19/customizing-the-homepage-with-widgets/</loc>
       <lastmod>2016-04-19T00:00:00+04:30</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>/post/managing-content/</loc>
+      <loc>/2016/04/18/managing-content/</loc>
       <lastmod>2016-04-18T00:00:00+04:30</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>/post/writing-markdown-latex/</loc>
+      <loc>/2016/04/17/writing-content-with-markdown-latex-and-shortcodes/</loc>
       <lastmod>2016-04-17T00:00:00+04:30</lastmod>
     </url>
     
@@ -113,7 +113,7 @@
     
     <url>
     
-      <loc>/post/migrate-from-jekyll/</loc>
+      <loc>/2014/03/10/migrate-from-jekyll-to-hugo/</loc>
       <lastmod>2014-03-10T00:00:00+03:30</lastmod>
     </url>
     
@@ -181,7 +181,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2017-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
